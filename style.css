@@ -18,7 +18,7 @@ p.time {
     color: gray;
 }
 
-.citation .external-link {
+p.citation a.external-link {
     color: SeaGreen;
 }
 
